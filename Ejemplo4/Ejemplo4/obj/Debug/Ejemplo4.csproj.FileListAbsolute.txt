@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe.config
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\bin\Debug\Ejemplo4.pdb
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.frmFactorial.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Ejemplo4\Ejemplo4\obj\Debug\Ejemplo4.pdb

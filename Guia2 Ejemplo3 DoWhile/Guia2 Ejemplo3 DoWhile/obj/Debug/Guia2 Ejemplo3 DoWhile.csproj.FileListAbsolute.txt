@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\bin\Debug\Guia2 Ejemplo3 DoWhile.exe.config
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\bin\Debug\Guia2 Ejemplo3 DoWhile.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\bin\Debug\Guia2 Ejemplo3 DoWhile.pdb
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\obj\Debug\Guia2 Ejemplo3 DoWhile.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\obj\Debug\Guia2 Ejemplo3 DoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\obj\Debug\Guia2_Ejemplo3_DoWhile.Form1.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\obj\Debug\Guia2_Ejemplo3_DoWhile.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\obj\Debug\Guia2 Ejemplo3 DoWhile.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\obj\Debug\Guia2 Ejemplo3 DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\obj\Debug\Guia2 Ejemplo3 DoWhile.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia2 Ejemplo3 DoWhile\Guia2 Ejemplo3 DoWhile\obj\Debug\Guia2 Ejemplo3 DoWhile.pdb

@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\bin\Debug\Guia 2 Ejemplo 1.exe.config
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\bin\Debug\Guia 2 Ejemplo 1.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\bin\Debug\Guia 2 Ejemplo 1.pdb
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\obj\Debug\Guia 2 Ejemplo 1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\obj\Debug\Guia 2 Ejemplo 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\obj\Debug\Guia_2_Ejemplo_1.Form1.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\obj\Debug\Guia_2_Ejemplo_1.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\obj\Debug\Guia 2 Ejemplo 1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\obj\Debug\Guia 2 Ejemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\obj\Debug\Guia 2 Ejemplo 1.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejemplo 1\Guia 2 Ejemplo 1\obj\Debug\Guia 2 Ejemplo 1.pdb
