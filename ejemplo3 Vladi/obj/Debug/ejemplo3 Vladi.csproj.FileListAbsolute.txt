@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\bin\Debug\ejemplo3 Vladi.exe.config
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\bin\Debug\ejemplo3 Vladi.exe
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\bin\Debug\ejemplo3 Vladi.pdb
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\obj\Debug\ejemplo3 Vladi.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\obj\Debug\ejemplo3 Vladi.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\obj\Debug\ejemplo3_Vladi.Form1.resources
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\obj\Debug\ejemplo3_Vladi.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\obj\Debug\ejemplo3 Vladi.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\obj\Debug\ejemplo3 Vladi.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\obj\Debug\ejemplo3 Vladi.exe
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo3 Vladi\ejemplo3 Vladi\obj\Debug\ejemplo3 Vladi.pdb
