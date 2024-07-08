@@ -1,0 +1,22 @@
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\bin\Debug\ejemplo 2 Vladimir Penado.exe.config
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\bin\Debug\ejemplo 2 Vladimir Penado.exe
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\bin\Debug\ejemplo 2 Vladimir Penado.pdb
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo_2_Vladimir_Penado.Form1.resources
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo_2_Vladimir_Penado.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.exe
+C:\Users\USUARIO\Downloads\PAL Guia 5 Diego Vladimir Penado\ejemplo 2 Vladimir Penado\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.pdb
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\bin\Debug\ejemplo 2 Vladimir Penado.exe.config
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\bin\Debug\ejemplo 2 Vladimir Penado.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\bin\Debug\ejemplo 2 Vladimir Penado.pdb
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo_2_Vladimir_Penado.Form1.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo_2_Vladimir_Penado.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\ejemplo 2 Vladimir Penado\obj\Debug\ejemplo 2 Vladimir Penado.pdb

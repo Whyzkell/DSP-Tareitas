@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace ejemplo_2_Vladimir_Penado
 {
-    public partial class Ejemplo2Ejercicio : Form
+    public partial class Form1 : Form
     {
 
         double TasaI;
@@ -21,7 +21,7 @@ namespace ejemplo_2_Vladimir_Penado
             return int.TryParse(valor, out result);
         }
 
-        public Ejemplo2Ejercicio()
+        public Form1()
         {
             InitializeComponent();
 

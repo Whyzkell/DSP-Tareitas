@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\bin\Debug\10NumdecimalesCualquiera.exe.config
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\bin\Debug\10NumdecimalesCualquiera.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\bin\Debug\10NumdecimalesCualquiera.pdb
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\obj\Debug\10NumdecimalesCualquiera.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\obj\Debug\10NumdecimalesCualquiera.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\obj\Debug\_10NumdecimalesCualquiera.Ejercicio3.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\obj\Debug\_10NumdecimalesCualquiera.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\obj\Debug\10NumdecimalesCualquiera.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\obj\Debug\10NumdecimalesCualquiera.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\obj\Debug\10NumdecimalesCualquiera.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\10NumdecimalesCualquiera\10NumdecimalesCualquiera\obj\Debug\10NumdecimalesCualquiera.pdb

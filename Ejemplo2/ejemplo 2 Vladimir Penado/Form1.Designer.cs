@@ -1,6 +1,6 @@
 ﻿namespace ejemplo_2_Vladimir_Penado
 {
-    partial class Ejemplo2Ejercicio
+    partial class Form1
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -31,8 +31,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.txtEmpresa = new System.Windows.Forms.TextBox();
+            this.txtMonto = new System.Windows.Forms.TextBox();
+            this.txtTiempo = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.txtTasaInterEX = new System.Windows.Forms.TextBox();
             this.rdbInteres1 = new System.Windows.Forms.RadioButton();
             this.rdbInteres2 = new System.Windows.Forms.RadioButton();
             this.rdbInteres3 = new System.Windows.Forms.RadioButton();
@@ -40,12 +43,8 @@
             this.btnAnalisis = new System.Windows.Forms.Button();
             this.btnNuevo = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
-            this.txtMonto = new System.Windows.Forms.NumericUpDown();
-            this.txtTiempo = new System.Windows.Forms.NumericUpDown();
-            this.txtTasaInterEX = new System.Windows.Forms.NumericUpDown();
-            ((System.ComponentModel.ISupportInitialize)(this.txtMonto)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtTiempo)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtTasaInterEX)).BeginInit();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -73,6 +72,21 @@
             this.txtEmpresa.Size = new System.Drawing.Size(100, 20);
             this.txtEmpresa.TabIndex = 2;
             // 
+            // txtMonto
+            // 
+            this.txtMonto.Location = new System.Drawing.Point(180, 110);
+            this.txtMonto.Name = "txtMonto";
+            this.txtMonto.Size = new System.Drawing.Size(100, 20);
+            this.txtMonto.TabIndex = 3;
+            // 
+            // txtTiempo
+            // 
+            this.txtTiempo.Location = new System.Drawing.Point(619, 117);
+            this.txtTiempo.Name = "txtTiempo";
+            this.txtTiempo.Size = new System.Drawing.Size(100, 20);
+            this.txtTiempo.TabIndex = 4;
+            this.txtTiempo.Text = "2";
+            // 
             // label3
             // 
             this.label3.AutoSize = true;
@@ -90,6 +104,14 @@
             this.label4.Size = new System.Drawing.Size(86, 13);
             this.label4.TabIndex = 6;
             this.label4.Text = "Tasa Interés (%):";
+            // 
+            // txtTasaInterEX
+            // 
+            this.txtTasaInterEX.Location = new System.Drawing.Point(561, 226);
+            this.txtTasaInterEX.Name = "txtTasaInterEX";
+            this.txtTasaInterEX.Size = new System.Drawing.Size(100, 20);
+            this.txtTasaInterEX.TabIndex = 7;
+            this.txtTasaInterEX.Text = "0";
             // 
             // rdbInteres1
             // 
@@ -165,92 +187,20 @@
             this.btnSalir.UseVisualStyleBackColor = true;
             this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
-            // txtMonto
+            // numericUpDown1
             // 
-            this.txtMonto.DecimalPlaces = 2;
-            this.txtMonto.Increment = new decimal(new int[] {
-            1,
-            0,
-            0,
-            131072});
-            this.txtMonto.Location = new System.Drawing.Point(180, 112);
-            this.txtMonto.Maximum = new decimal(new int[] {
-            1000000,
-            0,
-            0,
-            131072});
-            this.txtMonto.Minimum = new decimal(new int[] {
-            10000,
-            0,
-            0,
-            131072});
-            this.txtMonto.MinimumSize = new System.Drawing.Size(1, 0);
-            this.txtMonto.Name = "txtMonto";
-            this.txtMonto.Size = new System.Drawing.Size(120, 20);
-            this.txtMonto.TabIndex = 15;
-            this.txtMonto.Value = new decimal(new int[] {
-            10000,
-            0,
-            0,
-            131072});
+            this.numericUpDown1.Location = new System.Drawing.Point(334, 155);
+            this.numericUpDown1.MinimumSize = new System.Drawing.Size(1, 0);
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(120, 20);
+            this.numericUpDown1.TabIndex = 15;
             // 
-            // txtTiempo
-            // 
-            this.txtTiempo.Location = new System.Drawing.Point(618, 117);
-            this.txtTiempo.Maximum = new decimal(new int[] {
-            10,
-            0,
-            0,
-            0});
-            this.txtTiempo.Minimum = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
-            this.txtTiempo.Name = "txtTiempo";
-            this.txtTiempo.Size = new System.Drawing.Size(120, 20);
-            this.txtTiempo.TabIndex = 16;
-            this.txtTiempo.Value = new decimal(new int[] {
-            1,
-            0,
-            0,
-            0});
-            // 
-            // txtTasaInterEX
-            // 
-            this.txtTasaInterEX.Increment = new decimal(new int[] {
-            5,
-            0,
-            0,
-            0});
-            this.txtTasaInterEX.Location = new System.Drawing.Point(525, 226);
-            this.txtTasaInterEX.Maximum = new decimal(new int[] {
-            25,
-            0,
-            0,
-            0});
-            this.txtTasaInterEX.Minimum = new decimal(new int[] {
-            10,
-            0,
-            0,
-            0});
-            this.txtTasaInterEX.Name = "txtTasaInterEX";
-            this.txtTasaInterEX.Size = new System.Drawing.Size(120, 20);
-            this.txtTasaInterEX.TabIndex = 17;
-            this.txtTasaInterEX.Value = new decimal(new int[] {
-            10,
-            0,
-            0,
-            0});
-            // 
-            // Ejemplo2Ejercicio
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.txtTasaInterEX);
-            this.Controls.Add(this.txtTiempo);
-            this.Controls.Add(this.txtMonto);
+            this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.btnNuevo);
             this.Controls.Add(this.btnAnalisis);
@@ -258,16 +208,17 @@
             this.Controls.Add(this.rdbInteres3);
             this.Controls.Add(this.rdbInteres2);
             this.Controls.Add(this.rdbInteres1);
+            this.Controls.Add(this.txtTasaInterEX);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
+            this.Controls.Add(this.txtTiempo);
+            this.Controls.Add(this.txtMonto);
             this.Controls.Add(this.txtEmpresa);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Ejemplo2Ejercicio";
+            this.Name = "Form1";
             this.Text = "Calculo del Monto a pagar por un Prestamo";
-            ((System.ComponentModel.ISupportInitialize)(this.txtMonto)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtTiempo)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtTasaInterEX)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -278,8 +229,11 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtEmpresa;
+        private System.Windows.Forms.TextBox txtMonto;
+        private System.Windows.Forms.TextBox txtTiempo;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox txtTasaInterEX;
         private System.Windows.Forms.RadioButton rdbInteres1;
         private System.Windows.Forms.RadioButton rdbInteres2;
         private System.Windows.Forms.RadioButton rdbInteres3;
@@ -287,9 +241,7 @@
         private System.Windows.Forms.Button btnAnalisis;
         private System.Windows.Forms.Button btnNuevo;
         private System.Windows.Forms.Button btnSalir;
-        private System.Windows.Forms.NumericUpDown txtMonto;
-        private System.Windows.Forms.NumericUpDown txtTiempo;
-        private System.Windows.Forms.NumericUpDown txtTasaInterEX;
+        private System.Windows.Forms.NumericUpDown numericUpDown1;
     }
 }
 
