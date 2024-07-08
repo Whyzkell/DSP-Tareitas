@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\bin\Debug\Guia 2 Ejercicio 3.exe.config
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\bin\Debug\Guia 2 Ejercicio 3.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\bin\Debug\Guia 2 Ejercicio 3.pdb
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\obj\Debug\Guia 2 Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\obj\Debug\Guia 2 Ejercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\obj\Debug\Guia_2_Ejercicio_3.wasasin.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\obj\Debug\Guia_2_Ejercicio_3.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\obj\Debug\Guia 2 Ejercicio 3.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\obj\Debug\Guia 2 Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\obj\Debug\Guia 2 Ejercicio 3.exe
+C:\Users\USUARIO\Downloads\EMPLOY\DSP-Tareitas\Guia 2 Ejercicio 3\Guia 2 Ejercicio 3\obj\Debug\Guia 2 Ejercicio 3.pdb
