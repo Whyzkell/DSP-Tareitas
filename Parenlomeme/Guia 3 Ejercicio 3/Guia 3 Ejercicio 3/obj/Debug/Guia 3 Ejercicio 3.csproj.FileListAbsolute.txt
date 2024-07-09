@@ -1,0 +1,10 @@
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\bin\Debug\Guia 3 Ejercicio 3.exe.config
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\bin\Debug\Guia 3 Ejercicio 3.exe
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\bin\Debug\Guia 3 Ejercicio 3.pdb
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\obj\Debug\Guia 3 Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\obj\Debug\Guia_3_Ejercicio_3.Form1.resources
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\obj\Debug\Guia_3_Ejercicio_3.Properties.Resources.resources
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\obj\Debug\Guia 3 Ejercicio 3.csproj.GenerateResource.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\obj\Debug\Guia 3 Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\obj\Debug\Guia 3 Ejercicio 3.exe
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia 3 Ejercicio 3\Guia 3 Ejercicio 3\obj\Debug\Guia 3 Ejercicio 3.pdb

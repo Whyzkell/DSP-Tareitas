@@ -1,0 +1,10 @@
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\bin\Debug\guia 3 Ejemplo1.exe.config
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\bin\Debug\guia 3 Ejemplo1.exe
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\bin\Debug\guia 3 Ejemplo1.pdb
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\obj\Debug\guia 3 Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\obj\Debug\guia_3_Ejemplo1.Form1.resources
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\obj\Debug\guia_3_Ejemplo1.Properties.Resources.resources
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\obj\Debug\guia 3 Ejemplo1.csproj.GenerateResource.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\obj\Debug\guia 3 Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\obj\Debug\guia 3 Ejemplo1.exe
+C:\Users\CFP.23\Downloads\Parenlomeme\guia 3 Ejemplo1\guia 3 Ejemplo1\obj\Debug\guia 3 Ejemplo1.pdb

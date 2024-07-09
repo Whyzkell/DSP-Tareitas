@@ -1,0 +1,10 @@
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\bin\Debug\Guia3 Ejemplo 3.exe.config
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\bin\Debug\Guia3 Ejemplo 3.exe
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\bin\Debug\Guia3 Ejemplo 3.pdb
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\obj\Debug\Guia3 Ejemplo 3.csproj.AssemblyReference.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\obj\Debug\Guia3_Ejemplo_3.Form1.resources
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\obj\Debug\Guia3_Ejemplo_3.Properties.Resources.resources
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\obj\Debug\Guia3 Ejemplo 3.csproj.GenerateResource.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\obj\Debug\Guia3 Ejemplo 3.csproj.CoreCompileInputs.cache
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\obj\Debug\Guia3 Ejemplo 3.exe
+C:\Users\CFP.23\Downloads\Parenlomeme\Guia3 Ejemplo 3\Guia3 Ejemplo 3\obj\Debug\Guia3 Ejemplo 3.pdb
